@@ -6,4 +6,4 @@ This repository contains Assingments of ECE NTUA Robotics and Advanced Robotics 
 * A Project Assingment in MATLAB on the same areas
 ### Robotics II
 * 2 Analytical Assingments on Grasping and Extended Kalman Filter
-Note: Capstone Project of this Course is described at this repo: https://github.com/klean2050/Mobile_Robot_Control
+* Capstone Project of this Course is described at this repo: https://github.com/klean2050/Mobile_Robot_Control
